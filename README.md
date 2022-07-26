@@ -18,6 +18,8 @@ Alors, embarquons vers de nouveaux horizons ! 🚀
 
 [Annonce 2](https://github.com/Hunswegle/recrutement_ets/blob/main/ANNONCE-2.md)
 
+[Testeur](https://github.com/ProxiadRecrutement/ProxiadRecrutement/blob/main/jobs/testeur.md)
+
 
 
 <!---
