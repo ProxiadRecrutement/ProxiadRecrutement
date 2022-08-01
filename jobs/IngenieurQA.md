@@ -5,7 +5,7 @@
 STACK
 --- 
 
-<img src="/assets/images/Selenium.JPG" width="478" height="174">
+<img src="/assets/images/Selenium.JPG" width="110" height="50">
 
 MISSIONS
 ---
