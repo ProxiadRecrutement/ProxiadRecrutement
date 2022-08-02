@@ -25,5 +25,11 @@ Vous justifiez d’une expérience d’au moins 3 ans dans le domaine du test ap
 Vous connaissez et/ou maîtrisez l'un de ces outils : Test Link, Selenium, Katalon, Mantis, Jira ou HP ALM.
 La certification ISTQB serait un véritable atout
 
+**Comment postuler ?**
+---
+Transmet nous ton CV à: recrutement.nord@proxiad.com
+
+
+
 > Proxiad recrute et reconnaît tous les talents.
 
